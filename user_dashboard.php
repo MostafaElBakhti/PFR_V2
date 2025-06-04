@@ -1046,6 +1046,10 @@ $top_helpers = $stmt->fetchAll(PDO::FETCH_ASSOC);
             <i class="fas fa-list"></i>
             <span>My Tasks</span>
         </a>
+        <a href="applications.php" class="menu-item">
+            <i class="fas fa-clipboard-list"></i>
+            <span>Applications</span>
+        </a>
         <a href="#" class="menu-item">
             <i class="fas fa-plus-circle"></i>
             <span>Post Task</span>
